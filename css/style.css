@@ -2,3 +2,13 @@ body {
   background: #41385C;
   color: white;
 }
+
+.caja {
+  width: 200px;
+  border: 1px solid #A8D;
+  margin-bottom: 50px;
+}
+
+.tipo-a {
+  margin: 0 auto;
+}
