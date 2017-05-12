@@ -1,6 +1,7 @@
 body {
   background: #41385C;
   color: white;
+  margin: 0;
 }
 
 .caja {
@@ -11,4 +12,9 @@ body {
 
 .tipo-a {
   margin: 0 auto;
+}
+
+.tipo-b {
+  /*no funciona bien con safari*/
+  margin-left: calc(100vw / 2 - 100px)
 }
