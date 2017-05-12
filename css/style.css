@@ -18,3 +18,9 @@ body {
   /*no funciona bien con safari*/
   margin-left: calc(100vw / 2 - 100px)
 }
+.tipo-c {
+  text-align: center;
+}
+.tipo-c .caja {
+  display: inline-block;
+}
